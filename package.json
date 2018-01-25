@@ -1,0 +1,22 @@
+{
+  "name": "nodeplay",
+  "version": "1.0.0",
+  "description": "Node, Express and Mongo Sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkfisher82/nodeplay.git"
+  },
+  "author": "Mark Fisher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkfisher82/nodeplay/issues"
+  },
+  "homepage": "https://github.com/mkfisher82/nodeplay#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
